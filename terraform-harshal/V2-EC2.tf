@@ -8,7 +8,7 @@
   }
 
   provider "aws" {
-    # Specifies the desired AWS region for resource provisioning dcdddv ..........................................................................
+    # Specifies the desired AWS region for resource provisioning dcdddv .....................................................................................
     region = "us-east-1"
   }
 
